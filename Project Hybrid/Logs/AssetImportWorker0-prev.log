@@ -1,0 +1,136 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 24526 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity Editors\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/project hybrid/projectHybrid_GH/Project-Hybrid/Project Hybrid
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55551
+Successfully changed project path to: D:/project hybrid/projectHybrid_GH/Project-Hybrid/Project Hybrid
+D:/project hybrid/projectHybrid_GH/Project-Hybrid/Project Hybrid
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/project hybrid/projectHybrid_GH/Project-Hybrid/Project Hybrid/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8152 MB
+    Driver:   27.20.12029.1000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity Editors/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001714 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2376 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2831.
+Total: 2.017700 ms (FindLiveObjects: 0.312700 ms CreateObjectMapping: 0.057500 ms MarkObjects: 1.592600 ms  DeleteObjects: 0.053800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(221f0a7a74d49a04cb1578d43fddd585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(221f0a7a74d49a04cb1578d43fddd585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c92d08de6eeed032f4ea65869bab3e6') in 0.031048 seconds
+  Import took 0.034747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(5f173cf7123c6fd4eaddf1806848311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(5f173cf7123c6fd4eaddf1806848311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17103f1f69f2e19143ba5a273699191f') in 0.006549 seconds
+  Import took 0.009974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.775962 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(dbbd706b148f96f4a9311d94b1eee2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(dbbd706b148f96f4a9311d94b1eee2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6794af06a7ad0d7a35ab33d8d27e7af3') in 0.004771 seconds
+  Import took 0.008592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003970 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(dbbd706b148f96f4a9311d94b1eee2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(dbbd706b148f96f4a9311d94b1eee2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6794af06a7ad0d7a35ab33d8d27e7af3') in 0.001958 seconds
+  Import took 0.005618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.473926 seconds.
+  path: Assets/Scenes/Pepijn's superieure scene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pepijn's superieure scene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ef30e4d659276a84f103547129445b') in 0.005136 seconds
+  Import took 0.008670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.690627 seconds.
+  path: Assets/Scenes/Thomas.unity
+  artifactKey: Guid(cc094d34c096da648b3e7eb917a939c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Thomas.unity using Guid(cc094d34c096da648b3e7eb917a939c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab27372e605fe869a77f565fc25061ca') in 0.004909 seconds
+  Import took 0.008662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.971442 seconds.
+  path: Assets/Scenes/Vera.unity
+  artifactKey: Guid(92379d1ecaa957245a3ca104ff9e52bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Vera.unity using Guid(92379d1ecaa957245a3ca104ff9e52bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f8917bd9a06e7691d63b6d3575e540') in 0.005119 seconds
+  Import took 0.008892 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
